@@ -5,3 +5,8 @@
     "descripcion": "Daño en alumbrado público"
   }
 ]
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
